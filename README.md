@@ -5,7 +5,7 @@ NOTE: DON'T MESS UP WITH INDEX.JS FILE. <br>
 
 # How to Install? 
 $ git clone https://github.com/VhmedSherif/HAMADA <br>
-$ cd whatsapp-chatgpt <br>
+$ cd HAMADA <br>
 $ npm install <br>
 $ node index.js <br>
 
