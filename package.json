@@ -1,5 +1,5 @@
 {
-  "name": "Whatsapp-chatgpt",
+  "name": "HAMADA",
   "version": "1",
   "description": "WHATSAPP CHATGPT BOT, USING OPENAI",
   "main": "index.js",
@@ -18,8 +18,8 @@
     "bot-md",
     "whatsapp-multi-device"
   ],
-  "base": "https://github.com/ShadowHackrs",
-  "author": "ShadowHackrs",
+  "base": "https://github.com/VhmedSherif",
+  "author": "VhmedSherif",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "4.4.0",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ShadowHackrs/Whatsapp-Bot.git"
+    "url": "https://github.com/VhmedSherif/HAMADA.git"
   },
   "bugs": {
-    "url": "https://github.com/ShadowHackrs/Whatsapp-Bot/issues"
+    "url": "https://github.com/VhmedSherif/HAMADA/issues"
   },
-  "homepage": "https://github.com/ShadowHackrs/Whatsapp-Bot#readme"
+  "homepage": "https://github.com/VhmedSherif/HAMADA#readme"
 }
